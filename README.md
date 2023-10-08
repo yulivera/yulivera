@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ### I am Yuliver
-I'm a Systems Engineer and Full Stack developer who is passionate about Web Development.
+I'm a Systems Engineer and who is passionate about Web Development.
 - 🌱 Open for project collaboration and internship opportunities.
   
 ### 🛠 Technologies & Tools
